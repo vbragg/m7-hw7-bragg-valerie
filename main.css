@@ -49,6 +49,16 @@ p {
 	font-family: 'Hind Madurai', sans-serif;
 }
 
+#hiddenmessage {
+	text-align: center;
+	padding-top: 3%;
+	font-style: italic;
+}
+
+.orange {
+	border: border: 20px solid #FBAB76;
+}
+
 footer {
 	background-color: #FBAB76;
 	text-align: center;
