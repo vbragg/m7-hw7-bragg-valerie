@@ -40,6 +40,10 @@ figure img {
 	max-width: 600px;
 }
 
+.hide {
+	display: none;
+}
+
 p {
 	padding: 0 2% 1% 2%;
 	font-family: 'Hind Madurai', sans-serif;
